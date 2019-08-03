@@ -1,0 +1,17 @@
+/* your custom styles here */
+#main-nav {
+    height: 100px !important;
+}
+.navbar-right {
+    margin-top: 50px;
+}
+
+.navbar-brand.navbar-logo-bigger > img {
+    position: relative;
+    top: 13px;
+    width: 260px;
+  }
+
+.navbar-fixed-top.shrink-active .navbar-brand > img {
+    width: 230px;
+}
