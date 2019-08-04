@@ -8,12 +8,11 @@
     position: relative;
     top: 13px;
     width: 260px;
-  }
+}
 
 .navbar-fixed-top.shrink-active .navbar-brand > img {
     width: 230px;
 }
-
 
 /* Small Device */
 @media only screen and (max-width: 1023px) {
@@ -21,10 +20,13 @@
         position: relative;
         top: 13px;
         width: 100px;
-      }
+    }
     
     .navbar-fixed-top.shrink-active .navbar-brand > img {
         width: 100px;
+    }
+    .navbar-right {
+        margin-top: 0px;
     }
 }
 
