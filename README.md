@@ -2,4 +2,4 @@
 
 ## License
 
-Copyright © 2019 [Digital18 Inc]()
+Copyright © 2019 [Digital18 Inc](https://digital18io.github.io)
